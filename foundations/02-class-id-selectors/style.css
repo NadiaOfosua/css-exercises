@@ -1,0 +1,21 @@
+/* styles.css */
+
+p{
+    background-color: rgb(231, 136, 152);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.E1{
+    color: rgb(0, 0, 225) ;
+    font-size: 36px; 
+}
+
+.Odd2 {
+   font-size: 24px; 
+}
+
+.E2 {
+    background-color: rgb(154, 221, 182);
+    font-size: 24px;
+    font-weight: bold;
+}
